@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TK", "TK\TK.csproj", "{A12ED1A9-7B2D-4E70-A21B-5599E4E9E576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0F921165-D256-40E9-A5EA-A281D771C601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12ED1A9-7B2D-4E70-A21B-5599E4E9E576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12ED1A9-7B2D-4E70-A21B-5599E4E9E576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12ED1A9-7B2D-4E70-A21B-5599E4E9E576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12ED1A9-7B2D-4E70-A21B-5599E4E9E576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F921165-D256-40E9-A5EA-A281D771C601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F921165-D256-40E9-A5EA-A281D771C601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F921165-D256-40E9-A5EA-A281D771C601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F921165-D256-40E9-A5EA-A281D771C601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD290EBA-186F-46C1-8C9C-4D2E847617A4}
+	EndGlobalSection
+EndGlobal
